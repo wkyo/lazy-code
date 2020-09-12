@@ -14,7 +14,8 @@ DEFAULT_ENCODINGS = (
     'utf-32',
     'gb2312',
     'gbk',
-    'gb18030'
+    'gb18030',
+    'ascii'
 )
 
 
